@@ -16,6 +16,7 @@ namespace ConsoleApp1
             //i need to see this in the pull request changes!
             static void Main(string[] args)
             {
+            int x = 3;
                 int[] a = { 3, 2, 5, 4, 1 };
                 int t;
                 System.Diagnostics.Debug.WriteLine("The Array is : ");

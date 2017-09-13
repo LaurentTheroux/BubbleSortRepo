@@ -13,8 +13,7 @@ namespace ConsoleApp1
     namespace TestingSonarQubeApp
     {
         static class Program
-            //this pull request changes
-        {
+            //i need to see this in the pull request changes!
             static void Main(string[] args)
             {
                 int[] a = { 3, 2, 5, 4, 1 };
@@ -34,8 +33,9 @@ namespace ConsoleApp1
                             a[i + 1] = a[i];
                             a[i] = t;
                         }
-                    }
+                    
                 }
+            }
                 System.Diagnostics.Debug.WriteLine("The Sorted Array :");
                 foreach (int aray in a)
                     System.Diagnostics.Debug.Write(aray + " ");

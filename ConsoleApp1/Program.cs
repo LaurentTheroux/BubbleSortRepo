@@ -13,6 +13,7 @@ namespace ConsoleApp1
     namespace TestingSonarQubeApp
     {
         static class Program
+            //this pull request changes
         {
             static void Main(string[] args)
             {

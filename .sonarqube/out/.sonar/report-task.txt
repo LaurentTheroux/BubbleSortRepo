@@ -1,0 +1,7 @@
+organization=laurenttheroux-github
+projectKey=projetTransat
+serverUrl=https://sonarcloud.io
+serverVersion=6.5.0.27571
+dashboardUrl=https://sonarcloud.io/dashboard/index/projetTransat
+ceTaskId=AV52tl_kXvuWY4K7qmoj
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AV52tl_kXvuWY4K7qmoj

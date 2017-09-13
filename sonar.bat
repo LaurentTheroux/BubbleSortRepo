@@ -1,5 +1,5 @@
-SonarQube.Scanner.MSBuild.exe begin /k:"test4" /d:"sonar.host.url=http://localhost:9000" /d:"sonar.login=da43d9f7b0d15d59a56959a869ca6de6b3cbedfc"
+SonarQube.Scanner.MSBuild.exe begin /k:"TransatProject" /d:"sonar.host.url=http://localhost:9000" /d:"sonar.login=de1d905fb7ef1d6e9d88ba181a61ad91a2f44be9"
 
 msbuild /t:Rebuild
 
-SonarQube.Scanner.MSBuild.exe end /d:"sonar.login=0cee5f3136f1255946e9af372d6da6abdd4db24c"
+SonarQube.Scanner.MSBuild.exe end /d:"sonar.login=de1d905fb7ef1d6e9d88ba181a61ad91a2f44be9"

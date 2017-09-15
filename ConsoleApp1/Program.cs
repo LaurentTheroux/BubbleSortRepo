@@ -38,6 +38,7 @@ namespace ConsoleApp1
                 }
             }
             if(true==true)
+            int x = 1;
             //new comments!
                 System.Diagnostics.Debug.WriteLine("The Sorted Array :");
                 foreach (int aray in a)
